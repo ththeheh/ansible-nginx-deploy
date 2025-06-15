@@ -10,8 +10,11 @@ This project automates the installation and configuration of the **NGINX web ser
 ## What This Project Does
 
 ✅ Installs the latest NGINX web server
+
 ✅ Creates a custom `index.html`
+
 ✅ Starts and enables the NGINX service on boot
+
 ✅ Executes the entire setup with a single command
 
 ---
@@ -19,14 +22,19 @@ This project automates the installation and configuration of the **NGINX web ser
 ## Project Structure
 
 ansible-nginx-deploy/
+
 ├── hello-nginx.yml # Main Ansible playbook
+
 ├── .gitignore # Git exclusions (Python + Ansible)
+
 └── README.md # Project overview and usage
 
 ## Requirements
 
 -Ubuntu
+
 -Ansible (https://docs.ansible.com)
+
 -sudo privileges
 
 ---
@@ -71,5 +79,7 @@ Expected Output:
 ## Author
 
 Mary Yunju Kim
+
 Junior Solution Architect | Cloud and Automation Enthusiast
+
 Linkedin: https://www.linkedin.com/in/mary-yunju-kim-610002123/
