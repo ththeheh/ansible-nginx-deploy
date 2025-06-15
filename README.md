@@ -1,4 +1,4 @@
-# ⚙️nsible Automation: NGINX Web Server Deployment
+# Ansible Automation: NGINX Web Server Deployment
 
 This project automates the installation and configuration of the **NGINX web server** on a local Ubuntu system using **Ansible**. It’s designed as a hands-on learning exercise in infrastructure as code (IaC) and system automation.
 
